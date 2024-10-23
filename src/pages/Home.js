@@ -6,6 +6,9 @@ const Home = () => {
         <div className="home">
             <h1>Welcome to My Portfolio</h1>
             <p>Hi, I'm Prasad. A React.js Developer.</p>
+            <p>second commit
+                
+            </p>
         </div>
     );
 };
